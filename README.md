@@ -16,7 +16,6 @@
 
 ### 📊 GitHub Stats  
 
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalsinghrajput05&show_icons=true&theme=radical)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsinghrajput05&layout=compact&theme=radical)  
 
