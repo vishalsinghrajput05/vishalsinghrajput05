@@ -22,6 +22,8 @@ I am a Computer Science Graduate with a strong passion for coding and web develo
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F61?style=for-the-badge)
 
+---
+
 ### 🌐 Connect with me  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vishalsinghrajput05.github.io/Vishal-Portfolio/)
