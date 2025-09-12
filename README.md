@@ -37,6 +37,8 @@ I am a Computer Science Graduate with a strong passion for coding and web develo
 
 ### 📊 GitHub Stats  
 
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalsinghrajput05&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsinghrajput05&layout=compact&theme=radical)  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vishalsinghrajput05&theme=radical&hide_border=true)
