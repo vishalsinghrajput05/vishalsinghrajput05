@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Vishal Raj  
+  
+I am a Computer Science Graduate with a strong passion for coding and web development. I enjoy exploring new technologies, building innovative projects, and constantly improving my skills in full-stack development. My goal is to create impactful solutions while learning and experimenting with the latest tools and frameworks in the tech world.  
 
-🚀 Computer Science Graduate | Passionate about Coding & Web Development | Exploring new tech & building cool projects  
 
 ---
 
