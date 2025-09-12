@@ -1,19 +1,9 @@
-# Hi there 👋 I'm Vishal Raj  
-  
-I am a Computer Science Graduate with a strong passion for coding and web development. I enjoy exploring new technologies, building innovative projects, and constantly improving my skills in full-stack development. My goal is to create impactful solutions while learning and experimenting with the latest tools and frameworks in the tech world.  
+# Hi there 👋, I'm Vishal Raj
 
-
----
-
-### 🌐 Connect with me  
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vishalsinghrajput05.github.io/Vishal-Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalraj99)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vishalsingh________)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/199Bb4LLpr/)
-[![X](https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/VishalSingh05_)
+I am a Computer Science Graduate with a strong passion for coding and web development. I enjoy exploring new technologies, building innovative projects, and constantly improving my skills in full-stack development. My goal is to create impactful solutions while learning and experimenting with the latest tools and frameworks in the tech world.
 
 ---
+
 ## 🛠 Tech Stack  
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -31,6 +21,16 @@ I am a Computer Science Graduate with a strong passion for coding and web develo
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F61?style=for-the-badge)
+
+### 🌐 Connect with me  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vishalsinghrajput05.github.io/Vishal-Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalraj99)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vishalsingh________)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/199Bb4LLpr/)
+[![X](https://img.shields.io/badge/Twitter(X)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/VishalSingh05_)
+
+---
 
 
 ### 📊 GitHub Stats  
