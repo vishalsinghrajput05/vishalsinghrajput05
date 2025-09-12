@@ -16,7 +16,6 @@
 
 ### 📊 GitHub Stats  
 
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsinghrajput05&layout=compact&theme=radical)  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vishalsinghrajput05&theme=radical&hide_border=true)
